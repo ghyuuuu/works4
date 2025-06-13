@@ -4,15 +4,4 @@ torch==2.7.0
 torchvision==0.22.0
 pillow==10.4.0 
 torchcam==0.4.0
-
-# 图像处理增强
-opencv-python==4.8.1.78
-scikit-image==0.21.0
-
-# 数据可视化
-plotly==5.15.0
-seaborn==0.13.2
-
-# 文件处理工具
-xlrd==2.1.2  # XLSX读取支持
-tqdm==4.67.1  # 进度条显示
+openpyxl=3.1.2
